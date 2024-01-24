@@ -1,0 +1,33 @@
+body{
+    font-family: 'Karla', sans-serif;
+    background-color: hsl(204, 43%, 93%);
+    font-size: 16px;
+    display: flex;
+    height: 100vh;
+    /* justify-content: center; */
+    align-items: center;
+    
+}
+
+.main-container{
+    flex-direction: column;
+    display: flex;
+    
+}
+
+
+.first-container{
+    background-color: white;
+}
+
+.second-container{
+    background-color: hsl(179, 62%, 43%);
+}
+
+.third-container{
+    background-color: hsl(179, 68%, 63%);
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
